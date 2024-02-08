@@ -13,5 +13,10 @@
         "title": "Testing",
         "text": "IT works",
         "id": "78d81aca-f3a6-488a-ac98-e81a0cd5702d"
+    },
+    {
+        "title": "Example Note",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "id": "ce8540c6-4e48-498a-be2b-33a712b872d0"
     }
 ]
