@@ -16,3 +16,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## image
 ![NotePad example image](image.png)
+
+## Links
+link to deployed app: https://austins-note-pad-7c4218f44ad2.herokuapp.com/ 
