@@ -13,6 +13,9 @@ notes.post('/', (req, res) => {
     req.body.id = newId;
     readAndAppend(req.body, '../NotePad/db/db.json');
     console.log('added note');
+    readFromFile('../NotePad/db/db.json').then((data) => 
+    res.json(JSON.parse(data))
+    );
     
 });
 
