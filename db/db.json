@@ -18,5 +18,10 @@
         "title": "Example Note",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         "id": "ce8540c6-4e48-498a-be2b-33a712b872d0"
+    },
+    {
+        "title": "something",
+        "text": "dasdad",
+        "id": "cb0cc344-f14e-41e7-8d44-bc8c5c201f39"
     }
 ]
